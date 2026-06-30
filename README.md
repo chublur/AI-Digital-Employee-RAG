@@ -14,10 +14,7 @@
 
 ![文献入库与智能问答](assets/screenshot-rag-demo.png)
 
-<p align="center">
-  <img src="assets/screenshot-main.png" alt="系统主界面" width="48%" />
-  <img src="assets/screenshot-chat.png" alt="多轮对话" width="48%" />
-</p>
+![多轮对话界面](assets/screenshot-chat.png)
 
 ---
 
